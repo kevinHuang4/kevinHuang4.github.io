@@ -1,0 +1,65 @@
+#intro {
+    background-color: black;
+}
+
+.jumbotron { 
+padding-top: 400px; 
+padding-bottom: 400px; 
+margin-bottom: 0px;
+}
+#title {
+color: white
+}
+
+.greyBg {
+    /* padding-top: 50px;
+    padding-bottom: 50px; */
+    padding: 10px 0;
+    background-color: #efefef;
+    }
+    
+
+
+
+    #section-slide-cards {
+        width: 100%;
+        overflow: hidden;
+    }
+
+    #a-slider { background-color: rgb(235, 235, 235)
+    }
+    #a-slider .a-slider-innr { 
+    padding: 25px;
+    background-color:rgb(235, 235, 235);
+    }
+    #a-slider .slick-next { right: 30px}
+    #a-slider .slick-prev {
+        left: 30px;
+        z-index: 1;
+        }
+
+    #a-slider .slick-prev:before {
+        color: black;
+      }
+    #a-slider .slick-next:before {
+        color: black;
+      }
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

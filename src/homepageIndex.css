@@ -1,0 +1,80 @@
+#intro {
+    background-color: black;
+}
+#material1 {
+    background-color: black;
+}
+#material2 {
+    background-color: black;
+}
+
+
+
+
+
+
+
+
+.jumbotron {
+padding-top: 80px;
+padding-bottom: 300px;
+}
+
+.motivationParagraph {
+text-indent: 30px;
+margin: 0;
+}
+
+
+.jumbotron > * {
+color: white !important;
+}
+
+.introduction > .jumbotron {
+background-image: url(./assets/homepageImages/IMG_6047.jpg);
+background-position: center center; 
+background-size: cover
+}
+
+.jumbotron {
+background-image: url(./assets/homepageImages/pic2.jpg); 
+background-position: center center; 
+background-size: cover;
+margin-bottom: 0;
+}
+
+.activities> .jumbotron {
+background-image: url(./assets/homepageImages/IMG_6028.JPG); 
+background-position: center center; 
+background-size: cover;
+}
+
+.jumbotron {
+margin-bottom: 0;
+}
+
+/* .container> .row {
+padding-bottom:65px;
+}
+ */
+
+.introduction> .jumbotron {
+margin-bottom: 0;
+}
+
+.activities> .jumbotron {
+margin-bottom: 0;
+}
+
+.paragraph> .container {
+margin-top: 50px;
+margin-bottom: 50px;
+}
+
+.greyBg {
+/* padding-top: 50px;
+padding-bottom: 50px; */
+padding: 10px 0;
+background-color: #efefef;
+}
+
