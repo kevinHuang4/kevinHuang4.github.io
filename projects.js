@@ -1,5 +1,17 @@
+$.urlParam = function (name) {
+    var results = new RegExp('[\?&]' + name + '=([^&#]*)').exec(window.location.search);
+    return (results !== null) ? results[1] || 0 : false;
+}
+
+
+var currentProject = $.urlParam('projectId') || 0
+
+
+
+
+
 // console.log(projects)
-var project=projects[3]
+var project=projects[parseInt(currentProject)]
 // console.log(project) 
 var titleTarget=$('#title')
 var title=project.title
