@@ -4,7 +4,7 @@
         title: 'Project Page',
         links: [{
           title:"Home Page",
-          link:"./homepageIndex.html",
+          link:"/index.html",
         },]
       }
 
