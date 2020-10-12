@@ -3,7 +3,7 @@
       var toolbars = {
         title: 'Project Page',
         links: [{
-          title:"Home Page",
+          title:"Homepage",
           link:"/index.html",
         },]
       }
@@ -65,7 +65,7 @@
     },
       {
         id: 1,
-        title:"Hand-control Car",
+        title:"Hand-controlled Car",
         text:"",
         purpose:"",
         backgroundImage:"assets/images/kevin/IMG_5749.JPG",
