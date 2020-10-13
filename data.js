@@ -111,7 +111,7 @@
             // arrowsOrSlides: '',
         },
         ],
-        description:"This is an upgraded version of the Bluetooth-controlled car. For this RC car 2.0, you can controll it by moving one of your hands (with a Transimtter)in 4 directions, and the car will move according to your gesture.",
+        description:"This is an upgraded version of the Bluetooth-controlled car. For this RC car 2.0, you can control it by moving one of your hands (with a transmitter)in 4 directions, and the car will move according to your gesture.",
         whatHaveILearned:"The idea came from the inspiration that children do not always have access to phones. Therefore, this version allows children to control it using only their hands. It is more advanced and challenging because moving hands in different directions to control this car is a better illustration of interactions between humans and machines.",
         image1:"assets/images/kevin/IMG_5695.JPG",
         image2:"assets/images/kevin/IMG_5716.JPG",
